@@ -33,7 +33,7 @@
 				<input type="submit" name="" value="Register">
 
 				<br><br>
-				<a href="loginpage.html">existing user, login !?</a>
+				<a href="loginpage.jsp">existing user, login !?</a>
 
 			</form>
 
