@@ -13,7 +13,7 @@
 		<img src="avatar2.png" class="user">
 		<h1>Login Here</h1>
 
-			<form name="myform" onsubmit="return login()">
+			<form name="myform" onsubmit="return login()" action="test" method="post">
 				<p>User Name</p>
 				<input type="text" name="uname" placeholder="Enter a User Name"/>
 

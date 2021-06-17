@@ -13,7 +13,7 @@
 		<img src="avatar2.png" class="user">
 		<h1>Register Here</h1>
 
-			<form name="myform2" onsubmit="return register()">
+			<form name="myform2" onsubmit="return register()" action="register" method="post">
 				<p>User Name</p>
 				<input type="text" name="uname" placeholder="Enter a User Name">
 
